@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/obinnaezealor" target="blank"><img src="https://img.shields.io/twitter/follow/obinnaezealor?logo=twitter&style=for-the-badge" alt="obinnaezealor" /></a> </p>
 
-- 🔭 I’m currently working on [An E-commerce website]()
+- 🔭 I’m currently working on [An E-commerce website](https://lawrenceezealor.github.io/E-commerce-website/)
 
 - 🌱 I’m currently learning **Frontend Webdevelopment tools**
 
